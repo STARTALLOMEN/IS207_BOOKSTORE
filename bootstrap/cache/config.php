@@ -4,7 +4,7 @@
     'name' => 'Laravel',
     'env' => 'local',
     'debug' => true,
-    'url' => 'http://bookstore.website',
+    'url' => 'http://bookstore.website/',
     'timezone' => 'Asia/Ho_Chi_Minh',
     'locale' => 'en',
     'fallback_locale' => 'en',
@@ -270,7 +270,7 @@
       array (
         'driver' => 'local',
         'root' => 'C:\\xampp\\htdocs\\bookstore-website\\storage\\app/public',
-        'url' => 'http://bookstore.website/storage',
+        'url' => 'http://bookstore.website//storage',
         'visibility' => 'public',
       ),
       's3' => 

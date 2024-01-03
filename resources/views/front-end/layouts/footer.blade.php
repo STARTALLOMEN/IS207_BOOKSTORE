@@ -8,24 +8,21 @@
   <div class="container">
     <div class="row">
       <div class="col l6 s12">
-        <h5 class="white-text">Contact me via Facebook</h5>
-        <p class="grey-text text-lighten-4">
-          <div class="fb-page" 
-          data-href="https://www.facebook.com/haryphamdev" 
-          data-small-header="true" data-adapt-container-width="false" 
-          data-hide-cover="false" data-show-facepile="true">
-          <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore">
-          <a href="https://www.facebook.com/haryphamdev">Facebook</a></blockquote></div>
-        </p>
+        <h5 class="white-text">Bởi vì sách là thế giới</h5>
+        <ul>
+          <li><a class="grey-text text-lighten-3" href="#!">Trường Đại học Công nghệ Thông tin</a></li>
+          <li><a class="grey-text text-lighten-3" href="#!">Khoa Hệ thống Thông tin</a></li>
+          <li><a class="grey-text text-lighten-3" href="#!">IS207</a></li>
+          <li><a class="grey-text text-lighten-3" href="#!">Phát triển ứng dụng Web</a></li>
+        </ul>
       </div>
       <div class="col l4 offset-l2 s12">
-        <h5 class="white-text">Liên kết</h5>
+        <h5 class="white-text">Giới thiệu</h5>
         <ul>
-          <li><div class="g-ytsubscribe" data-channelid="UCHqJxLo7mKam9GKqqwr2wfA" data-layout="full" data-count="default"></div></li>
+          <li><a class="grey-text text-lighten-3" href="#!">About me</a></li>
           <br>
-          <li><a class="grey-text text-lighten-3" target ="_blank" href="https://github.com/haryphamdev">Project on Github</a></li>
+          <li><a class="grey-text text-lighten-3" target ="_blank" href="https://github.com/STARTALLOMEN">Project on Github</a></li>
           <script src="https://apis.google.com/js/platform.js"></script>
-
 
         </ul>
       </div>
@@ -33,8 +30,8 @@
   </div>
   <div class="footer-copyright">
     <div class="container">
-    © {{date("Y")}} Copyright HaryPhamDev
-    <a class="grey-text text-lighten-4 right" title="Click to get more free projects" target="_blank" href="https://www.youtube.com/channel/UCHqJxLo7mKam9GKqqwr2wfA?sub_confirmation=1">Get more free projects on my Youtube channel</a>
+    © {{date("Y")}} Boko Bookstore
+    <a class="grey-text text-lighten-4 right" title="Click to get information" target="_blank" >Liên hệ với chúng tôi</a>
     </div>
   </div>
 </footer>

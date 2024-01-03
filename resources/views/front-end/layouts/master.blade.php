@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>@yield('title') - Tiki.vn - Website bán sách hàng đầu VN</title>
+    <title>@yield('title') - bookstore.vn - Website bán sách hàng đầu VN</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link type="text/css" rel="stylesheet" href="{{ URL::asset('bs-front-end/css/icon.css') }}"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="{{ URL::asset('bs-front-end/css/materialize.min.css') }}"  media="screen,projection"/>
@@ -34,7 +34,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col l1">
-                              <a href="{{ route('homepage') }}" class="brand-logo">Tiki</a>
+                              <a href="{{ route('homepage') }}" class="brand-logo">Boko</a>
                               <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                             </div>
                             <div class="col l1">
