@@ -27,7 +27,7 @@
      <nav>
     <div class="container">
         <div class="nav-wrapper">
-          <a href="{{ route('homepage') }}" class="brand-logo">Tiki</a>
+          <a href="{{ route('homepage') }}" class="brand-logo">OAC</a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
                @if (Auth::guest())
                     <li><a href="{{ route('login') }}">Login</a></li>

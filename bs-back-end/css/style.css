@@ -29,7 +29,7 @@ body::-webkit-scrollbar-thumb
         width: 90px;
     }
     .owl-carousel-menu .item:hover{
-        background-color: #00b7f1 !important;
+        background-color: #FF9800 !important;
     }
     .owl-carousel-menu .item:hover a{
         color: #fff;

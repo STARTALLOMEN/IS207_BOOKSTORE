@@ -52,7 +52,7 @@ Thanh toán
         <div class="card-panel">
           <i class="material-icons">local_shipping</i>
              Giao hàng tiêu chuẩn chậm nhất 2 ngày
-             {{-- (dự kiến giao hàng vào Thứ bảy, 25/03/2017 - Thứ hai, 27/03/2017, không giao ngày Chủ Nhật) --}}
+             {{-- (dự kiến giao hàng vào Thứ bảy, 25/03/2023 - Thứ hai, 27/03/2023, không giao ngày Chủ Nhật) --}}
         </div>
           <h3 class="step-title">Chọn hình thức thanh toán</h3>
           <div class="card-panel">

@@ -34,7 +34,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col l1">
-                              <a href="{{ route('homepage') }}" class="brand-logo">Boko</a>
+                              <a href="{{ route('homepage') }}" class="brand-logo">OAC</a>
                               <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                             </div>
                             <div class="col l1">
